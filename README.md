@@ -39,7 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Author
-
+- Github - [KaranSingh266](https://github.com/KaranSingh266/)
 - Frontend Mentor - [@KaranSingh2666](https://www.frontendmentor.io/profile/KaranSingh2666)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
  🚀
